@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Sou o Guilherme Desenvolvedor web Full Stack 👋</h2>
 
-<p>Tenho 29 anos e tenho experiência de 1 a 2 anos em programação e desenvolvimento. Estou em busca de uma oportunidade de emprego. </p>
+
 <!-- <div align="center"> 
     <a href="https://www.linkedin.com/in/guilhermeteixeiradasilva1994/">
       <img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
