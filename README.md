@@ -1,5 +1,14 @@
 <h2 align="center">Olá! Sou o Guilherme Desenvolvedor web Full Stack 👋</h2>
+<p>Meu nome é Guilherme Teixeira, sou Desenvolvedor Web Full-Stack desde 2023, atualmente trabalho como Freelancer.</p>
+<p>Estou em busca da minha primeira oportunidade de emprego.</p>
 
+<details>
+  <summary>Mais sobre mim:</summary>
+
+  - tenho 29 anos, moro atualmente em Florianópolis. 
+
+  -  Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. 
+</details>
 
 <!-- <div align="center"> 
     <a href="https://www.linkedin.com/in/guilhermeteixeiradasilva1994/">
